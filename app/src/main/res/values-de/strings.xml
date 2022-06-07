@@ -1,0 +1,10 @@
+<resources>
+    <string name="introduction">Berechne dein Alter</string>
+    <string name="english">Englisch</string>
+    <string name="german">deutsch</string>
+
+    <string name="ageInMinutes">age in minutes:</string>
+
+    <string name="selectDayOfBirth">Wähle dein Geburtsdatum</string>
+    <string name="alertErrBirthdayMessage">Geburtstag muss in der Vergangenheit liegen</string>
+</resources>

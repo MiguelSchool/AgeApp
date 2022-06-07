@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">AlterApp</string>
+    <string name="introduction">Calculate your age</string>
+    <string name="english">english</string>
+    <string name="german">german</string>
+
+    <string name="ageInMinutes">age in minutes:</string>
+    <string name="selectDayOfBirth">select your birthday</string>
+    <string name="alertErrBirthdayMessage">Birthday must be in the past</string>
+</resources>
